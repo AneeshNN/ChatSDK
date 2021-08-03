@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatSDK</string>
+    <string name="dummy_text_user">user -1</string>
+    <string name="dummy_title">Title</string>
+</resources>
